@@ -1,0 +1,9 @@
+{
+    "name": "naseong-youtube-viewer",
+    "version": "0.1.0",
+    "dependencies": {
+        "react": "latest",
+        "react-dom": "latest",
+        "react-scripts": "latest"
+    }
+}
