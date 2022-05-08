@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.40c77110.css",
-    "main.js": "/static/js/main.9c4eadf0.js",
-    "index.html": "/index.html",
-    "main.40c77110.css.map": "/static/css/main.40c77110.css.map",
-    "main.9c4eadf0.js.map": "/static/js/main.9c4eadf0.js.map"
+    "main.css": "/naseong-youtube-viewer/static/css/main.40c77110.css",
+    "main.js": "/naseong-youtube-viewer/static/js/main.9c4eadf0.js",
+    "index.html": "/naseong-youtube-viewer/index.html",
+    "main.40c77110.css.map": "/naseong-youtube-viewer/static/css/main.40c77110.css.map",
+    "main.9c4eadf0.js.map": "/naseong-youtube-viewer/static/js/main.9c4eadf0.js.map"
   },
   "entrypoints": [
     "static/css/main.40c77110.css",
